@@ -10,10 +10,11 @@
 </div>
 <div>
   <br>
- ### Skills
-  <br>
+<h3>📖Skills</h3>
   <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </div>
