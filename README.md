@@ -8,3 +8,11 @@
   <br>
   함께 일하며 새로운 기술과 아이디어를 공유하고 성장하는 것을 즐기며, 끊임없이 발전하는 개발자로 성장하고자 합니다.
 </div>
+<div>
+  Skills
+  <br>
+  <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=white"/>
+</div>
