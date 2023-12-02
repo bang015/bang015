@@ -21,3 +21,20 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 </div>
+<br>
+<div>
+   <h3>:computer:팀 프로젝트</h3>
+  <tr></tr>
+  <h4>:house: 나만의 방을 꾸미자! 가구 쇼핑몰  'anesi'</h4>
+  <ul>
+    <li>Github : https://github.com/bang015/anesi</li>
+    <li>담당파트 : 로그인, 상품 상세 페이지, 리뷰 및 문의, 비회원 주문 조회, 중고 상품 상세페이지 및 판매</li>
+    <li>수행기간 : 2023.08.09 ~ 2023.08.28 (22일)</li>
+    <li>소개 : 홈 데코 용품을 판매하고 개개인의 인테리어를 공유할 수 있는 커뮤니티 제공</li>
+  <img width="510" alt="스크린샷 2023-12-02 오후 10 37 29" src="https://github.com/bang015/bang015/assets/137017329/fa369a66-ae7c-4d14-a263-1257e59f9e48">
+  <h4>🎸 버스킹 정보 앱 'Indie Spot'</h3>
+    <li>Github : https://github.com/bang015/Indie_Spot</li>
+    <li>담당파트 : 로그인, 상품 상세 페이지, 리뷰 및 문의, 비회원 주문 조회, 중고 상품 상세페이지 및 판매</li>
+    <li>수행기간 : 2023.10.23 ~ 2023.11.13 (22일)</li>
+    <li>소개 : </li>
+</div>
