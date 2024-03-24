@@ -45,6 +45,7 @@
 
   <h4>✨ 혼자만 기억하기 아쉬운 추억을 공유해봐  'Molly'</h4>
   <ul>
+    <li>배포 주소 : https://molly.n-e.kr/</li>
     <li>Github :
       <ul>
         <li>[FE] https://github.com/bang015/Molly-frontend</li>
