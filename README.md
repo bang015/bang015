@@ -19,6 +19,28 @@
 <br>
 <div>
   
+## 👤개인 프로젝트
+
+  <h4>✨ 혼자만 기억하기 아쉬운 추억을 공유해봐  'Molly'</h4>
+  <ul>
+    <li>배포 주소 : https://molly.n-e.kr/</li>
+    <li>Github :
+      <ul>
+        <li>[FE] https://github.com/bang015/Molly-frontend</li>
+        <li>[BE] https://github.com/bang015/Molly-backend</li>    
+      </ul>
+    </li>
+    <li>수행기간 : 2023.12.19 ~ 2024.03.22 (94일)</li>
+    <li>소개 : 게시물을 통해 추억과 감정을 저장하고 공유하고, 댓글과 실시간 채팅을 통해 유저들과의 소통할 수 있는 서비스를 제공</li>
+  </ul>
+  
+  <img width="501" alt="스크린샷 2024-03-27 오전 12 46 39" src="https://github.com/bang015/bang015/assets/137017329/3fbdeb66-d021-4a8c-859e-aaca71e7522b">
+
+
+</div>
+<br>
+<div>
+  
 ## :computer:팀 프로젝트
    
   <h4>:house: 나만의 방을 꾸미자! 가구 쇼핑몰  'anesi'</h4>
@@ -38,21 +60,5 @@
   </ul>
     <img width="501" alt="스크린샷 2023-12-03 오후 1 23 53" src="https://github.com/bang015/bang015/assets/137017329/6447507d-47e2-4f8b-9e77-58002620593d">
 </div>
-<br>
-<div>
-  
-## 👤개인 프로젝트
 
-  <h4>✨ 혼자만 기억하기 아쉬운 추억을 공유해봐  'Molly'</h4>
-  <ul>
-    <li>배포 주소 : https://molly.n-e.kr/</li>
-    <li>Github :
-      <ul>
-        <li>[FE] https://github.com/bang015/Molly-frontend</li>
-        <li>[BE] https://github.com/bang015/Molly-backend</li>    
-      </ul>
-    </li>
-    <li>수행기간 : 2023.12.19 ~ 2024.03.22 (94일)</li>
-    <li>소개 : 게시물을 통해 추억과 감정을 저장하고 공유하고, 댓글과 실시간 채팅을 통해 유저들과의 소통할 수 있는 서비스를 제공</li>
-  </ul>
-</div>
+
