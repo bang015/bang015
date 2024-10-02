@@ -33,10 +33,8 @@
     <li>수행기간 : 2023.12.19 ~ 2024.03.22 (94일)</li>
     <li>소개 : 게시물을 통해 추억과 감정을 저장하고 공유하고, 댓글과 실시간 채팅을 통해 유저들과의 소통할 수 있는 서비스를 제공</li>
   </ul>
+  <img width="506" alt="스크린샷 2023-12-03 오후 1 42 58" src="https://github.com/user-attachments/assets/5ee8aa33-192d-455a-9f0a-14c84bee5af1">
   
-![mollly](https://github.com/user-attachments/assets/5ee8aa33-192d-455a-9f0a-14c84bee5af1)
-
-
 </div>
 <br>
 <div>
