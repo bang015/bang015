@@ -34,7 +34,7 @@
     <li>소개 : 게시물을 통해 추억과 감정을 저장하고 공유하고, 댓글과 실시간 채팅을 통해 유저들과의 소통할 수 있는 서비스를 제공</li>
   </ul>
   
-  <img width="501" alt="스크린샷 2024-03-27 오전 12 46 39" src="https://github.com/bang015/bang015/assets/137017329/3fbdeb66-d021-4a8c-859e-aaca71e7522b">
+![mollly](https://github.com/user-attachments/assets/5ee8aa33-192d-455a-9f0a-14c84bee5af1)
 
 
 </div>
