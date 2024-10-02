@@ -27,7 +27,7 @@
     <li>Github :
       <ul>
         <li>[FE] https://github.com/bang015/Molly-frontend</li>
-        <li>[BE] https://github.com/bang015/Molly-backend</li>    
+        <li>[BE] https://github.com/bang015/Molly-backend-spring</li>    
       </ul>
     </li>
     <li>수행기간 : 2023.12.19 ~ 2024.03.22 (94일)</li>
