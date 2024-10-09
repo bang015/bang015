@@ -23,12 +23,7 @@
   <h4>✨ 혼자만 기억하기 아쉬운 추억을 공유해봐  'Molly'</h4>
   <ul>
     <li>배포 주소 : https://molly.n-e.kr/</li>
-    <li>Github :
-      <ul>
-        <li>[FE] https://github.com/bang015/Molly-frontend</li>
-        <li>[BE] https://github.com/bang015/Molly-backend-spring</li>    
-      </ul>
-    </li>
+    <li>Github : https://github.com/bang015/Spring-Molly</li>
     <li>수행기간 : 2023.12.19 ~ 2024.03.22 (94일)</li>
     <li>소개 : 게시물을 통해 추억과 감정을 저장하고 공유하고, 댓글과 실시간 채팅을 통해 유저들과의 소통할 수 있는 서비스를 제공</li>
   </ul>
